@@ -14,7 +14,7 @@ This project is a backend infrastructure built with [NestJS](https://nestjs.com/
 The project follows the standard NestJS project structure, with the addition of a `drizzle` directory for database-related files.
 
 - `src`: Contains the application source code.
-  - `drizzle`: Drizzle ORM module and schema definitions.
+- `drizzle`: Drizzle ORM module and schema definitions.
 - `test`: End-to-end tests.
 - `drizzle.config.ts`: Drizzle ORM configuration.
 
